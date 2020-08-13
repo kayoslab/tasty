@@ -1,0 +1,20 @@
+{
+  "Mac" : [
+
+  ],
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+
+  ],
+  "commitish" : "205a6850c3d54eaca98c1a9fdad89c567d9e05c2",
+  "iOS" : [
+    {
+      "hash" : "344673b9b48aaa47db5226afac8e11a74899fa52584add3031f3a64d437ebb50",
+      "name" : "tasty",
+      "linking" : "dynamic",
+      "swiftToolchainVersion" : "5.2.4 (swiftlang-1103.0.32.9 clang-1103.0.32.53)"
+    }
+  ]
+}

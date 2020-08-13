@@ -1,0 +1,11 @@
+framework module tasty {
+  umbrella header "tasty.h"
+
+  export *
+  module * { export * }
+}
+
+module tasty.Swift {
+    header "tasty-Swift.h"
+    requires objc
+}
